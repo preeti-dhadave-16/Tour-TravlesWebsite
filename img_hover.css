@@ -1,0 +1,20 @@
+.container1{
+    display: flex;
+}
+.card{
+    height: 500px;
+    margin: 80px;
+    box-shadow: 5px 5px 20px black;
+    overflow: hidden;
+}
+.info{
+    height: 200px;
+    width: 300px;
+    padding: 5px;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 50px; 
+    background: rgb(27, 27, 27, .5);
+    color: white;
+    
+}

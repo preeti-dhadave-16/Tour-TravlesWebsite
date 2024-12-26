@@ -1,0 +1,82 @@
+.main{
+    width: 100%;   /* Make sure the element is full width */
+    height: 95vh;  /* Sets the height to 100% of the viewport height */
+     background-image: url('img/bg.jpg');
+    background-size: cover;   /* Ensures the image covers the element completely */
+    background-repeat: no-repeat;  /* Prevents the image from repeating */
+    background-position: center center; /* Centers the image */
+    }
+ 
+    .logo{
+        color: #19a03e ;
+       font-size: 30px;
+       padding-top: 15px;
+    }
+    .content{
+    width: 1000px;
+    height: 10px;
+   color: #fff;
+    position: absolute;
+            
+    }
+    .form{
+    width: 250px;
+    height: 380px;
+    background:  rgba(0,0,0,0.8)50%;
+    position: absolute;
+    top: -489px;
+    left: 489px;
+   
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.form h2{
+    width: 220px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #19a03e;
+    font-size: 22px;
+    margin: 2px;
+    padding: 8px;
+}
+
+.form input{
+    width: 240px;
+    height: 35px;
+    background: transparent;
+    border-bottom: 1px solid #ff7200;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: white;
+    font-size: 20px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    font-family: sans-serif;
+    border-radius: 5px;
+}
+
+
+
+.btnn{
+    width: 240px;
+    height: 40px;
+    background: #19a03e;
+    border: none;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #fff;
+  
+}
+.btnn:hover{
+    background: #fff;
+    color: #ff7200;
+}
+.btnn a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}

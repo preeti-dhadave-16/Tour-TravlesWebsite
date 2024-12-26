@@ -1,0 +1,27 @@
+
+.bg-opacity {
+            background-color: rgba(0, 0, 0, 0.8); /* Black background with 50% opacity */
+            color: white; /* Text color to contrast with background */
+        }
+
+.btnn{
+    width: 100px;
+    height: 40px;
+    background: #19a03e;
+    border: none;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #fff;
+  
+}
+.btnn:hover{
+    background: #fff;
+    color: #ff7200;
+}
+.btnn a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}

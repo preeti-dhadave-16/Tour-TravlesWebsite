@@ -1,0 +1,12 @@
+.container2{
+    border-style: solid;
+    margin:-47px 10px 0px 10px;
+    box-shadow: 2px 6px 10px black;
+    padding: 20px;
+    background-color: #e8f7c9;
+}
+.table, th, td {
+     border: 1px solid black;
+     cellpadding:20px;
+     cellspacing:10px;
+}
